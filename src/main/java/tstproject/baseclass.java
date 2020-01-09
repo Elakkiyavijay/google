@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-public class baseclass 12 {
+public class baseclass {
 		public static WebDriver driver;
 		public String browser = "chrome";
 		public baseclass 11() {
