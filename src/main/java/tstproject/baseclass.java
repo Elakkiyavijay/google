@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class baseclass {
 		public static WebDriver driver;
 		public String browser = "chrome";
-		public baseclass() {
+		public baseclass 11() {
 			if (driver == null) {
 				if (browser.equals("chrome")) {
 					System.setProperty("webdriver.chrome.driver",
